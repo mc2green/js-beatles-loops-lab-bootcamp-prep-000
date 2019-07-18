@@ -32,7 +32,7 @@ function johnLennonFacts(facts){
 }
 function iLoveTheBeatles(num){
   var array = [];
-  var counter = 15 - num;
+  var counter = 15 - (15-num);
   do{
     array.push("I love the Beatles!")
     counter++;
