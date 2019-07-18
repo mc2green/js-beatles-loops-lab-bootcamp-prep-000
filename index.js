@@ -13,5 +13,9 @@ function theBeatlesPlay(musicians, instruments){
   return band[counter];
 }
 
+function johnLennonFacts{
+  
+}
+
 
   
