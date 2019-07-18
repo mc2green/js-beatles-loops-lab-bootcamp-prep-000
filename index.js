@@ -15,7 +15,7 @@ function theBeatlesPlay(musicians, instruments){
     sentence = musicians[counter] + "plays" + instruments[counter];
     band[counter] = sentence;
   }
-  return band[counter];
+  return band;
 }
 
 function johnLennonFacts(facts){
