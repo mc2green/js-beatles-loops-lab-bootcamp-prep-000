@@ -12,7 +12,7 @@ function theBeatlesPlay(musicians, instruments){
   var sentence;
   var band = [];
   for (counter; counter < musicians.length;counter++ ){
-    sentence = musicians[counter] + "plays the" + instruments[counter];
+    sentence = musicians[counter] + "plays" + instruments[counter];
     band[counter] = sentence;
   }
   return band[counter];
