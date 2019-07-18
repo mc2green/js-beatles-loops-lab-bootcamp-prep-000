@@ -6,7 +6,8 @@ var sentence;
 var band = [];
 function theBeatlesPlay(musicians, instruments){
   for(counter, counter < musicians.length(),counter++ ){
-    sentence[counter] = musicians[counter] + "plays the" + instruments[counter];
+    sentence = musicians[counter] + "plays the" + instruments[counter];
+    band[counter] = sentence
     
     
   }
