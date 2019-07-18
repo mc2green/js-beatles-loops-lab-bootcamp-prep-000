@@ -30,7 +30,7 @@ function johnLennonFacts(facts){
   return exclamationFacts;
   
 }
-function iLoveBeatles(num){
+function iLoveTheBeatles(num){
   var array = [];
   var counter = 0;
   do{
